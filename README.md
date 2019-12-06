@@ -2,6 +2,10 @@
 
 浙江大学软件学院校友交流互助。
 
+- [联系方式](./dosc/contact.md)
+- [面试经验](./docs/share.md)
+- [内推信息](./dosc/referral.md)
+
 ## 前言
 
 建立这个 Repo 主要有三个目的。
