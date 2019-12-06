@@ -2,9 +2,9 @@
 
 浙江大学软件学院校友交流互助。
 
-- [联系方式](./dosc/contact.md)
+- [联系方式](./docs/contact.md)
 - [面试经验](./docs/share.md)
-- [内推信息](./dosc/referral.md)
+- [内推信息](./docs/referral.md)
 
 ## 前言
 
