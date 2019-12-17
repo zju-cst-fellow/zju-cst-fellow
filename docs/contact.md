@@ -11,3 +11,4 @@
 | 字节跳动 | 前端 | 2018 | 戴 xy | daixinye@zju.edu.cn           | 杭州字节跳动效率工程           | 可帮内推 |
 | 字节跳动 | 后端 | 2018 | 王 l  | wangling.phoebe@bytedance.com | 上海字节跳动广告部门商业化平台 |          |
 | 字节跳动 | 数据 | 2018 | 黄 zy | meldur0810@zju.edu.cn         | 上海字节跳动用户增长部门       |          |
+| 字节跳动 | 算法 | 2018 | x 欣 | twostarxingxin@163.com         | 北京字节跳动产品研发和工程架构部       |  |
