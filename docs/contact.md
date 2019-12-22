@@ -6,6 +6,7 @@
 | 阿里巴巴 | 后端 | 2018 | 杜 pp | dupeipei@zju.edu.cn           | 阿里巴巴菜鸟网络                  |          |
 | 阿里巴巴 | 算法 | 2018 | 沈 wy | danieldiiorio_shen@163.com    | 机器学习岗                        |          |
 | 阿里巴巴 | 前端 | 2018 | 杭歌  | zhang295415658@qq.com         | 数据技术及产品部-数据中台前端开发 | 可内推   |
+| 阿里巴巴 | 算法 | 2018 | 朱 sh  | zjutzsh@gmail.com         | 商业机器智能部-推荐算法 | 可内推   |
 | ---      |      |      |       |                               |                                   |          |
 | SAP      | 后端 | 2018 | 周 j  | 21851058@zju.edu.cn           | SAP SuccessFactors                |          |
 | ---      |      |      |       |                               |                                   |          |
@@ -13,3 +14,4 @@
 | 字节跳动 | 后端 | 2018 | 王 l  | wangling.phoebe@bytedance.com | 上海字节跳动广告部门商业化平台    |          |
 | 字节跳动 | 数据 | 2018 | 黄 zy | meldur0810@zju.edu.cn         | 上海字节跳动用户增长部门          |          |
 | 字节跳动 | 算法 | 2018 | x 欣  | twostarxingxin@163.com        | 北京字节跳动产品研发和工程架构部  |          |
+
